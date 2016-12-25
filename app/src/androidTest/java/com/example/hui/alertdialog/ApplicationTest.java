@@ -1,4 +1,4 @@
-package com.gdmec.s07150706.alertdialog;
+package com.example.hui.alertdialog;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
